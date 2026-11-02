@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+env/
+*.pdf
+.processed_hashes.json
+master_charge_extraction_results.json
